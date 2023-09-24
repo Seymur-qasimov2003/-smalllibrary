@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1038369423338",
+    "project_id": "kitabxana-3c1e8",
+    "storage_bucket": "kitabxana-3c1e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038369423338:android:8e9f26492f15f2e178fc93",
+        "android_client_info": {
+          "package_name": "com.example.kitabxana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038369423338-rt30cvabv1jpp6moie536mk125tpj4gv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKZ8jRJVb6cvQ1HTthSvg2kSpKYBA6irM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038369423338-rt30cvabv1jpp6moie536mk125tpj4gv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
